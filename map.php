@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>hello world</title>
@@ -58,7 +57,6 @@
             line-height: 1.2;
         }
     </style>
-</head>
 <body>
     <div class="container">
         <h1>Find Your Account</h1>
